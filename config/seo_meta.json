@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "titleTemplate": "",
+  "description": "",
+  "openGraph": {
+    "title": "",
+    "description": "",
+    "type": "",
+    "url": "",
+    "site_name": "",
+    "images": [
+      {
+        "url": "",
+        "width": "",
+        "height": "",
+        "alt": ""
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "",
+    "site": "",
+    "cardType": ""
+  }
+}
