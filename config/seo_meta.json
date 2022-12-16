@@ -1,25 +1,25 @@
 {
-  "title": "",
-  "titleTemplate": "",
-  "description": "",
+  "title": "But I'll try",
+  "titleTemplate": "%s - jmnghn",
+  "description": "jmnghn's blog",
   "openGraph": {
-    "title": "",
-    "description": "",
-    "type": "",
-    "url": "",
-    "site_name": "",
+    "title": "openGraph title",
+    "description": "openGraph description",
+    "type": "article",
+    "url": "https://jmnghn-blog.vercel.app/",
+    "site_name": "openGraph site_name",
     "images": [
       {
         "url": "",
         "width": "",
         "height": "",
-        "alt": ""
+        "alt": "jmnghn"
       }
     ]
   },
   "twitter": {
-    "handle": "",
-    "site": "",
-    "cardType": ""
+    "handle": "@jmnghn",
+    "site": "@jmnghn",
+    "cardType": "summary_large_image"
   }
 }
