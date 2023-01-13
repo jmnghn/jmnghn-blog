@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div className="bg-slate-900 w-screen h-screen p-4 ">
-        <div className="text-4xl font-semibold text-indigo-50 sm:text-5xl leading-tight">
+        <div className="text-4xl font-semibold text-indigo-50 sm:text-5xl leading-tight sm:leading-snug">
           <p>
             Hello <div className="animate-waving-hand inline-block">👋🏻</div>,
           </p>
